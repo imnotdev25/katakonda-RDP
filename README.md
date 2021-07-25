@@ -34,4 +34,4 @@ bash RDP.sh
 ~~~
 
 For Video tutorial
-telegram.me/rdp_tricks
+https://telegram.me/rdp_tricks
