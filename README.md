@@ -1,4 +1,4 @@
-## katakonda-RDP
+## katacoda-RDP
 Complete Tutorial how to run windows 11
 
 For this tutorial I'm using some Linux VM machine you can use any one like GCP.
