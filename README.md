@@ -12,7 +12,7 @@ sudo su
 ~~~
 
 ~~~
-git clone https://github.com/imnotdev25/katakonda-RDP
+wget https://raw.githubusercontent.com/imnotdev25/katakonda-RDP/main/RDP.sh
 ~~~
 ~~~
 cd katakonda-RDP
