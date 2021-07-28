@@ -8,11 +8,14 @@ https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-
 First download this script in Linux Environment
 
 ~~~
-sudo su-
+sudo su
 ~~~
 
 ~~~
-wget https://github.com/imnotdev25/katakonda-RDP/blob/main/RDP.sh
+git clone https://github.com/imnotdev25/katakonda-RDP
+~~~
+~~~
+cd katakonda-RDP
 ~~~
 
 Now make executable
